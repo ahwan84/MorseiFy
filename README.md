@@ -8,8 +8,7 @@ A modern, responsive web application that converts **English Text ↔ Internatio
 
 ## 🌐 Live Demo
 
-🚀 **Try it here:**  
-      [MorseiFy](https://ahwan84.github.io/MorseiFy/)
+🚀 **Try it here:**   [MorseiFy](https://ahwan84.github.io/MorseiFy/)
 
 ---
 
