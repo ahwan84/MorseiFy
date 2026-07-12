@@ -169,3 +169,7 @@ While building MorseiFy, I learned about:
 ## ⭐ Support
 
 If you liked this project, consider giving it a ⭐ on GitHub!
+
+---
+
+Made with ❤️ by **Ahwan Sarkar**
